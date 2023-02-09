@@ -1,0 +1,64 @@
+roud 160 'lillibulero' bbc world service needs play tag
+
+there is a wrong # somewhere which is it?
+
+X22  Gil Brenton
+X24  Erlinton
+X39  The King's Dochter Lady Jean
+ 44  In block 43
+ 45  In block 43
+X46  Lord Ingram and Chiel Wyet
+ 58  In block 57
+ 59  In block 57
+X62  Brown Robyn
+X63  Johnie Scot
+X65  Willie o Douglas Dale
+X66  Tom Potts
+ 71  In block 70
+X72  Robyn Hood and Queen Katherine
+ 76  In block 75
+X82  Jock o the Side
+?86  No record
+X88  Lord Delaware
+X100 Bonny Baby Livingston
+X106 Lord William
+X107 Burd Isabel And Earl Patrick
+X109 Lord Thomas and Lady Margaret
+X110 John Thomson and the Turk
+X113 The Lord of Lorn and the Flas Steward
+X121 The Highwayman Outwitted By a Farmer's Daughter
+X123 The Young Earl of Essex's Victory over the Emperor of Germany
+X125 My Lady Ye Shall Be
+?150 Changed number
+ 156 In block 155
+?159 Changed number
+ 168 In block 167
+ 174 In block 173
+ 176 In block 175
+?177 Changed number
+ 184 In block 183
+ 186 In block 185
+X187 Yarmouth Tragedy
+ 189 In block 188
+ 192 In block 191
+?194 No record
+X198 Willie and Lady Maisry
+ 203 In block 202
+ 204 In block 202
+->208  Poor Paddy Works on the Railway - listed as 209 on CC<-- Error!
+?213 No record
+?214 No record
+?225 No record
+
+Found it!  208.
+
+https://www.vwml.org/roudnumber/XXX
+
+roud 118 and roud 212 are both child 279
+
+note WP says "no record" for roud 212 but vwnk.org lists it
+
+
+should re scanner look for multiple patterns per line?
+
+remove redunant "Roud n" in comment column
